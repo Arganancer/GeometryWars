@@ -1,0 +1,10 @@
+﻿ID_TOTAL_TIME==>Temps total---Total time
+ID_LIFE==>Vie---Life
+ID_SCORE==>Points---Score
+ID_PAUSE==>En pause---Pause
+ID_CONTROLLER_ERROR==>Svp, veuillez brancher une manette Xbox 360---Please plug in an Xbox 360 controller
+ID_START_PROMPT==>Appuyez sur "start" pour continuer---Press "start" to continue
+ID_START_KEYBOARD_PROMPT==>Appuyez sur "ESC" pour continuer---Press "ESC" to continue
+ID_BOMBS==>Bombes---Bombs
+ID_CONTROL_DEBUG==>Fonction debogue: Appuyez sur "P" pour commencer/arreter le spawning des ennemies---Debug function: Press "P" to toggle enemy spawning on/off
+ID_CONTROL_BOMB==>Appuyez sur "Espace" pour utiliser une bombe---Press "Space" to use a bomb

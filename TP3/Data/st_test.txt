@@ -1,0 +1,7 @@
+﻿ID_TOTAL_TIME==>Temps total---Total time
+ID_LIFE==>Vie---Life
+ID_SCORE==>Points---Score
+ID_PAUSE==>En pause---Pause
+ID_CONTROLLER_ERROR==>Svp, veuillez brancher une manette Xbox 360---Please plug in an Xbox 360 controller
+ID_START_PROMPT==>Appuyez sur "start" pour continuer---Press "start" to continues
+ID_BOMBS==>Bombes---Bombs
